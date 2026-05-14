@@ -11,10 +11,10 @@ backend and AI systems. I love building projects that solve real problems and le
 - ⚡ Fun fact: Octopuses have 3 hearts and blue blood
 
 ## 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,js,react,git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,ts,cpp,python,docker,git,linux,mysql)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Maksim-Viktorov&show_icons=true&theme=tokyonight)
 
 ## 📬 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/maksim-viktorov-99b0a3331/)
