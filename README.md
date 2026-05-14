@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Maskim 👋
 
-<!--
-**Maksim-Viktorov/Maksim-Viktorov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a third-year Computer Science student at Trinity College Dublin, passionate about 
+backend and AI systems. I love building projects that solve real problems and learning by doing.
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 CS undergrad @ Trinity College Dublin
+- 🔭 Currently working on: ai-interview-coach
+- 🌱 Currently learning: Next.js + APIs
+- 📫 How to reach me: viktorom@tcd.ie
+- ⚡ Fun fact: Octopuses have 3 hearts and blue blood
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=python,js,react,git,linux)](https://skillicons.dev)
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+## 📬 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/maksim-viktorov-99b0a3331/)
