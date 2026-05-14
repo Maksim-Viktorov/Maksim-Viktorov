@@ -14,7 +14,7 @@ backend and AI systems. I love building projects that solve real problems and le
 [![My Skills](https://skillicons.dev/icons?i=nextjs,ts,cpp,python,docker,git,linux,mysql)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Maksim-Viktorov&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Maksim-Viktorov&theme=tokyonight)](https://git.io/streak-stats)
 
 ## 📬 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/maksim-viktorov-99b0a3331/)
