@@ -5,8 +5,8 @@ backend and AI systems. I love building projects that solve real problems and le
 
 ## About Me
 - 🎓 CS undergrad @ Trinity College Dublin
-- 🔭 Currently working on: ai-interview-coach
-- 🌱 Currently learning: Next.js + APIs
+- 🔭 Currently working on: face-synth
+- 🌱 Currently learning: StyleGAN, PyTorch, Numpy
 - 📫 How to reach me: viktorom@tcd.ie
 - ⚡ Fun fact: Octopuses have 3 hearts and blue blood
 
